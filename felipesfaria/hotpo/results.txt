@@ -1,0 +1,38 @@
+MemoCap=1,000,000	MemoCounter=999,999
+hotpoMax(1,000,000,2,000,000)=n:1,723,519,max:557	elapsed=5.68160200119	memo=True
+
+MemoCap=0	MemoCounter=0
+hotpoMax(1,000,000,2,000,000)=n:1,723,519,max:557	elapsed=53.2246670723	memo=False
+
+MemoCap=10,000,000	MemoCounter=3,784,855
+hotpoMax(1,000,000,2,000,000)=n:1,723,519,max:557	elapsed=4.21430301666	memo=True
+
+MemoCap=1,000,000	MemoCounter=999,999
+hotpoMax(1,000,000,4,000,000)=n:3,732,423,max:597	elapsed=21.4392700195	memo=True
+
+MemoCap=10,000,000	MemoCounter=6,314,416
+hotpoMax(1,000,000,4,000,000)=n:3,732,423,max:597	elapsed=12.4774360657	memo=True
+
+MemoCap=1,000,000	MemoCounter=999,999
+hotpoMax(1,000,000,8,000,000)=n:6,649,279,max:665	elapsed=67.5779139996	memo=True
+
+MemoCap=2,000,000	MemoCounter=1,999,999
+hotpoMax(1,000,000,8,000,000)=n:6,649,279,max:665	elapsed=44.8193538189	memo=True
+
+MemoCap=4,000,000	MemoCounter=3,999,999
+hotpoMax(1,000,000,8,000,000)=n:6,649,279,max:665	elapsed=27.0200769901	memo=True
+
+MemoCap=8,000,000	MemoCounter=7,999,999
+hotpoMax(1,000,000,8,000,000)=n:6,649,279,max:665	elapsed=15.6399049759	memo=True
+
+MemoCap=10,000,000	MemoCounter=9,104,131
+hotpoMax(1,000,000,8,000,000)=n:6,649,279,max:665	elapsed=17.7990448475	memo=True
+
+MemoCap=12,000,000	MemoCounter=11,111,702
+hotpoMax(1,000,000,10,000,000)=n:8,400,511,max:686	elapsed=21.0889890194	memo=True
+
+MemoCap=10,000,000	MemoCounter=9,999,999
+hotpoMax(1,000,000,10,000,000)=n:8,400,511,max:686	elapsed=21.3946931362	memo=True
+
+MemoCap=16,000,000	MemoCounter=15,733,339
+hotpoMax(8,400,000,16,000,000)=n:15,733,191,max:705	elapsed=51.656760931	memo=True
